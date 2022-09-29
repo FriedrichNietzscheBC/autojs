@@ -1,0 +1,11 @@
+1.插件
+auto.js-vscodeext//vscode
+auto.js-pro-ext//通讯
+autojs clipboard//剪贴板同步
+
+2.连接
+手机开启服务端
+命令  auto.js pro:connect
+
+开启剪贴板同步
+命令  autojs: Clipboard synchronization
